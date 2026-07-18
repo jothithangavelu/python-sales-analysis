@@ -9,6 +9,7 @@ This project analyzes a sales dataset using Python.
 - Python
 - NumPy
 - Pandas
+- Matplotlib
 - Google Colab
 
 ## Project Tasks
